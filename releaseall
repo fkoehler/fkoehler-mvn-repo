@@ -1,0 +1,4 @@
+git add .
+git ci -am "new release"
+git push
+
